@@ -123,8 +123,10 @@ void IRPAIR()
 ## OUTPUT
 
 DETECTION OFF:
+![EX2 IOT OFF](https://github.com/user-attachments/assets/eeaa3a10-4c5b-49e9-a713-61011847a64c)
 
 DETECTION ON:
+![EX2 IOT ON](https://github.com/user-attachments/assets/1846580e-8708-41d7-b2e1-b2a9d4bdb457)
 
 ## Result
 
