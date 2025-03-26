@@ -1,6 +1,5 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
-
 **DATE: 26/03/2025**
 
 **NAME: M MANI SRI LATHA**
@@ -73,14 +72,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 ![Screenshot 2025-03-11 135208](https://github.com/user-attachments/assets/bb67ab6b-81a5-450c-b170-4276a9b87ef2)
 
-
-
 12. Connect the STM board through the COM port, then upload the corresponding project ELF file while ensuring the board is in flash mode, and click on 'Start Program.' After the file download is complete, switch your board to run mode and press the reset button to see the output
-
-
-
-
-
 
 ## STM 32 CUBE PROGRAM
 
